@@ -1,0 +1,113 @@
+defence,attack,position,name
+96,28,defender,Shaw
+96,29,defender,Mendy
+95,31,defender,Robertson
+93,25,defender,Emerson
+83,28,defender,Kolasinac
+82,25,defender,Rose
+98,25,defender,Chilwell
+83,31,defender,Marcelo
+86,25,defender,Alba
+94,32,defender,Saul
+81,30,defender,Alaba
+83,35,defender,Schulz
+95,25,defender,Alex Sandro
+82,28,defender,Biraghi
+91,30,defender,Rui Mario
+89,33,defender,Bernat
+92,34,defender,Maguire
+85,30,defender,Lindelof
+99,33,defender,Stones
+82,27,defender,Laporte
+98,33,defender,Van Dijk
+83,29,defender,Matip
+98,31,defender,Rudiger
+96,28,defender,Zouma
+81,33,defender,Chambers
+84,30,defender,Sokratis
+80,30,defender,Alderweireld
+89,29,defender,Vertonghen
+80,26,defender,Soyuncu
+81,31,defender,Evans
+88,29,defender,Ramos
+84,35,defender,Varane
+90,31,defender,Pique
+85,35,defender,Langlet
+91,26,defender,Felipe
+86,35,defender,Gimenez
+92,28,defender,Sule
+96,35,defender,Boateng
+82,28,defender,Hummels
+84,26,defender,Akanji
+89,25,defender,De Ligt
+95,29,defender,Bonucci
+96,35,defender,Godin
+90,32,defender,De Vrij
+82,26,defender,Koulibaly
+96,35,defender,Manolas
+99,30,defender,Silva
+87,34,defender,Marquinhos
+80,35,defender,Wan Bissaka
+90,32,defender,Walker
+95,27,defender,Arnold
+95,35,defender,Azpilicueta
+97,29,defender,M. Niles
+86,34,defender,Aurier
+80,26,defender,Ricardo
+92,30,defender,Carvajal
+94,35,defender,Semedo
+94,25,defender,Trippier
+94,28,defender,Kimmich
+92,31,defender,Hakimi
+92,32,defender,Cuadrado
+88,25,defender,D'Ambrosio
+84,28,defender,Di Lorenzo
+91,33,defender,Meunier
+37,83,striker,Lautaro
+36,88,striker,Alli
+44,88,striker,Aubameyang
+43,92,striker,Hazard
+38,92,striker,Higuain
+42,98,striker,Sancho
+39,92,striker,Martial
+35,84,striker,Mbappe
+37,98,striker,Milik
+36,88,striker,Iheanacho
+43,96,striker,Son
+37,92,striker,Benzema
+41,99,striker,Pulisic
+38,82,striker,Abraham
+38,88,striker,Mertens
+42,84,striker,Tielemans
+40,90,striker,Mahrez
+44,82,striker,Rashford
+43,87,striker,Dan James
+37,84,striker,Kane
+36,99,striker,Mane
+45,81,striker,Reus
+39,82,striker,Neymar
+41,90,striker,Sterling
+44,97,striker,Suarez
+35,86,striker,Aguero
+45,87,striker,Dybala
+41,85,striker,Costa
+36,84,striker,Gnabry
+40,93,striker,T. Hazard
+35,90,striker,Salah
+45,98,striker,Morata
+39,96,striker,Lewandowski
+36,97,striker,J. Felix
+35,85,striker,Messi
+43,98,striker,Bale
+39,84,striker,Ronaldo
+35,97,striker,Icardi
+43,85,striker,Pepe
+41,97,striker,Willian
+36,83,striker,Vardy
+39,99,striker,Insigne
+36,85,striker,Griezmann
+35,99,striker,Muller
+41,83,striker,Lacazette
+35,83,striker,Sanchez
+43,95,striker,Lukaku
+38,99,striker,Firmino
